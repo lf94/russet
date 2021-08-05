@@ -6,6 +6,11 @@ The name Russet comes from the brown color in the MetaMask fox's ear.
 
 ## Invocation
 
+It will be easy to run `russet`. For now you need to modify the source code to
+input these fields.
+
+### Future invocation
+
 It is very easy to run `russet`:
 
 `russet --salt <salt> --iv <iv> --data <data> [wordlist]`
