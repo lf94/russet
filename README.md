@@ -14,3 +14,7 @@ It is very easy to run `russet`:
 the chances of recovering the wallet are now significantly worse.
 
 It will print a result when it sees the start of a json structure: `{`.
+
+## Timing
+
+On an Intel duo core, it takes ~0.028s per password.

@@ -1,0 +1,10 @@
+[package]
+name = "russet"
+version = "0.1.0"
+authors = ["Lee <inbox@leefallat.ca>"]
+edition = "2018"
+
+[dependencies]
+rayon = "*"
+openssl = "*"
+base64 = "*"
